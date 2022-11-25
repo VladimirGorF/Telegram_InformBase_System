@@ -9,7 +9,7 @@ import search_and_return_module
 
 
 
-API_TOKEN = '5936246114:AAGCbe54p6aXYNxWmFa0iaKnh05wosaWSus'
+API_TOKEN = 
 
 
 bot = telebot.TeleBot(API_TOKEN)
